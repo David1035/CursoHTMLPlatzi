@@ -2,3 +2,4 @@ Para Optimizar imagenes, podemos utilizar dos páginas web.
     1) Tiny PNG "Mejora el tamaño de las imagenes"
     2) Verexif "Quita los metadatos, como hora, fecha" 
 
+
